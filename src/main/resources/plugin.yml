@@ -1,0 +1,5 @@
+name: vEconomy
+version: '1.0-SNAPSHOT'
+main: me.charly.fplugins.vEconomy.VEconomy
+api-version: '1.21'
+authors: [ Charly ]
